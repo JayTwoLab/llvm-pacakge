@@ -7,4 +7,8 @@
    - `LLVM_DIR` : `C:\llvm-package\lib\cmake\llvm`
    - `Clang_DIR` : `C:\llvm-package\lib\cmake\clang`
 
-  
+## Version
+- v21.1.6
+   - https://github.com/JayTwoLab/llvm-pacakge/releases/tag/v21.1.6
+
+ 
