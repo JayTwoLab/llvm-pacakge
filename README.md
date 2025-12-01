@@ -18,7 +18,6 @@ export PATH="$LLVM_HOME/bin:$PATH"
 export LD_LIBRARY_PATH="$LLVM_HOME/lib:$LD_LIBRARY_PATH"
 
 export CMAKE_PREFIX_PATH="$LLVM_HOME:$CMAKE_PREFIX_PATH"
-
 export LLVM_DIR="$LLVM_HOME/lib/cmake/llvm"
 export Clang_DIR="$LLVM_HOME/lib/cmake/clang"
 ' >> ~/.bash_profile
