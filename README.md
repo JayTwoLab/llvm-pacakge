@@ -24,7 +24,7 @@ export Clang_DIR="$LLVM_HOME/lib/cmake/clang"
 ```
 
 ## Version
-- v21.1.6
-   - https://github.com/JayTwoLab/llvm-pacakge/releases/tag/v21.1.6
+- [v21.1.6](https://github.com/JayTwoLab/llvm-pacakge/releases/tag/v21.1.6)
+
 
  
