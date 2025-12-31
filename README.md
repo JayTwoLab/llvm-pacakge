@@ -5,7 +5,7 @@
 ## Environment variables
 - Windows 11
    - `LLVM_HOME` : `C:\llvm-package`
-   - `PATH` : `C:\llvm-package\bin`
+   - `PATH` : `C:\llvm-package\bin;%PATH%`
    - `LLVM_DIR` : `C:\llvm-package\lib\cmake\llvm`
    - `Clang_DIR` : `C:\llvm-package\lib\cmake\clang`
 - Linux
